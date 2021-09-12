@@ -256,7 +256,7 @@ bunzip2 %{buildroot}%{_bindir}/subscribeIMAP.sh.bz2
 * Wed Apr 02 2003 Miguel Beccari <miguel.beccari@clikka.com> 1.5.2-1.0.1
 - Conectiva 7.0 support
 - Cleans up
-* Sun Feb 15 2003 Nick Hemmesch <nick@ndhsoft.com> 1.4.0-1.0.3
+* Sat Feb 15 2003 Nick Hemmesch <nick@ndhsoft.com> 1.4.0-1.0.3
 - Support for Red Hat 8.0
 * Sat Feb 01 2003 Miguel Beccari <miguel.beccari@clikka.com> 1.4.0-1.0.2
 - Redo Macros to prepare supporting larger RPM OS.
@@ -268,5 +268,5 @@ bunzip2 %{buildroot}%{_bindir}/subscribeIMAP.sh.bz2
 - Try to use gcc-3.2.1
 - Added very little patch to compile with newest GLIBC
 - Support dor new RPM-4.0.4
-* Thu Oct 22 2002 Miguel Beccari <miguel.beccari@clikka.com> 1.4.0-1.0.0beta
+* Tue Oct 22 2002 Miguel Beccari <miguel.beccari@clikka.com> 1.4.0-1.0.0beta
 - Toaster release
