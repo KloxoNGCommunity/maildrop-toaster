@@ -26,6 +26,9 @@ Url:		http://www.flounder.net/~mrsam/maildrop/
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	vpopmail-toaster >= 5.3.8, pcre-devel
 #BuildRequires:  courier-imap-toaster
+BuildRequires:  make
+BuildRequires:	gcc
+BuildRequires: gcc-c++
 Packager:       Jake Vickers <jake@qmailtoaster.com>
 
 #-------------------------------------------------------------
